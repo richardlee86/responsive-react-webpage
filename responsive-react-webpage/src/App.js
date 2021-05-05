@@ -1,5 +1,4 @@
-//import logo from './logo.svg';
-import './App.css';
+ import './App.css';
 
 function App() {
   return (
@@ -44,17 +43,7 @@ function App() {
             id="password"
             placeholder="Password"
             required
-          />
-          <div class="check">
-            <input
-              class="password"
-              type="checkbox"
-              name="showPassword"
-              id="showPassword"              
-            /><label for="showPassword" class="password-label"
-              >Show Password</label
-            >
-          </div>
+          />         
 
           <button type="submit">CLAIM YOUR FREE TRIAL</button>
           <label for=""
