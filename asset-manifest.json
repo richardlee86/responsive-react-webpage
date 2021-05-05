@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/responsive-react-webpage/static/css/main.0ea3677c.chunk.css",
+    "main.js": "/responsive-react-webpage/static/js/main.3a10ddfe.chunk.js",
+    "main.js.map": "/responsive-react-webpage/static/js/main.3a10ddfe.chunk.js.map",
+    "runtime-main.js": "/responsive-react-webpage/static/js/runtime-main.6ce060f1.js",
+    "runtime-main.js.map": "/responsive-react-webpage/static/js/runtime-main.6ce060f1.js.map",
+    "static/js/2.7c4992e4.chunk.js": "/responsive-react-webpage/static/js/2.7c4992e4.chunk.js",
+    "static/js/2.7c4992e4.chunk.js.map": "/responsive-react-webpage/static/js/2.7c4992e4.chunk.js.map",
+    "static/js/3.28139f8f.chunk.js": "/responsive-react-webpage/static/js/3.28139f8f.chunk.js",
+    "static/js/3.28139f8f.chunk.js.map": "/responsive-react-webpage/static/js/3.28139f8f.chunk.js.map",
+    "index.html": "/responsive-react-webpage/index.html",
+    "static/css/main.0ea3677c.chunk.css.map": "/responsive-react-webpage/static/css/main.0ea3677c.chunk.css.map",
+    "static/js/2.7c4992e4.chunk.js.LICENSE.txt": "/responsive-react-webpage/static/js/2.7c4992e4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/responsive-react-webpage/static/media/bg-intro-mobile.02ce3982.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ce060f1.js",
+    "static/js/2.7c4992e4.chunk.js",
+    "static/css/main.0ea3677c.chunk.css",
+    "static/js/main.3a10ddfe.chunk.js"
+  ]
+}
